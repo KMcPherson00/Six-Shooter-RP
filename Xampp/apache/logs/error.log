@@ -1,0 +1,19 @@
+[Thu Jan 06 22:42:19.346585 2022] [ssl:warn] [pid 16492:tid 532] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 06 22:42:19.415601 2022] [ssl:warn] [pid 16492:tid 532] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 06 22:42:19.460612 2022] [mpm_winnt:notice] [pid 16492:tid 532] AH00455: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.1.1 configured -- resuming normal operations
+[Thu Jan 06 22:42:19.460612 2022] [mpm_winnt:notice] [pid 16492:tid 532] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Thu Jan 06 22:42:19.460612 2022] [core:notice] [pid 16492:tid 532] AH00094: Command line: 'd:\\github\\six-shooter-rp\\xampp\\apache\\bin\\httpd.exe -d D:/GitHub/Six-Shooter-RP/Xampp/apache'
+[Thu Jan 06 22:42:19.464612 2022] [mpm_winnt:notice] [pid 16492:tid 532] AH00418: Parent: Created child process 19376
+[Thu Jan 06 22:42:19.804689 2022] [ssl:warn] [pid 19376:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 06 22:42:19.853701 2022] [ssl:warn] [pid 19376:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 06 22:42:19.869704 2022] [mpm_winnt:notice] [pid 19376:tid 612] AH00354: Child: Starting 150 worker threads.
+[Sat Jan 08 14:35:51.254566 2022] [mpm_winnt:notice] [pid 16492:tid 532] AH00428: Parent: child process 19376 exited with status 1 -- Restarting.
+[Sat Jan 08 14:35:51.430915 2022] [ssl:warn] [pid 16492:tid 532] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 08 14:35:51.451920 2022] [mpm_winnt:notice] [pid 16492:tid 532] AH00455: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.1.1 configured -- resuming normal operations
+[Sat Jan 08 14:35:51.451920 2022] [mpm_winnt:notice] [pid 16492:tid 532] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Sat Jan 08 14:35:51.451920 2022] [core:notice] [pid 16492:tid 532] AH00094: Command line: 'd:\\github\\six-shooter-rp\\xampp\\apache\\bin\\httpd.exe -d D:/GitHub/Six-Shooter-RP/Xampp/apache'
+[Sat Jan 08 14:35:51.464923 2022] [mpm_winnt:notice] [pid 16492:tid 532] AH00418: Parent: Created child process 4764
+[Sat Jan 08 14:35:51.789001 2022] [ssl:warn] [pid 4764:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 08 14:35:51.838911 2022] [ssl:warn] [pid 4764:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 08 14:35:51.853913 2022] [mpm_winnt:notice] [pid 4764:tid 604] AH00354: Child: Starting 150 worker threads.
+[Sat Jan 08 14:35:52.890397 2022] [mpm_winnt:crit] [pid 4764:tid 604] AH02538: Child: Parent process exited abruptly. Child process is ending

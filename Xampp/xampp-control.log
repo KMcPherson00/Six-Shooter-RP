@@ -1,0 +1,50 @@
+10:41:42 PM  [main] 	Initializing Control Panel
+10:41:42 PM  [main] 	Windows Version:  Enterprise  64-bit
+10:41:42 PM  [main] 	XAMPP Version: 8.1.1
+10:41:42 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+10:41:42 PM  [main] 	Running with Administrator rights - good!
+10:41:42 PM  [main] 	XAMPP Installation Directory: "d:\github\six-shooter-rp\xampp\"
+10:41:42 PM  [main] 	Checking for prerequisites
+10:41:42 PM  [main] 	All prerequisites found
+10:41:42 PM  [main] 	Initializing Modules
+10:41:42 PM  [main] 	The FileZilla module is disabled
+10:41:42 PM  [main] 	The Mercury module is disabled
+10:41:42 PM  [main] 	The Tomcat module is disabled
+10:41:42 PM  [main] 	Starting Check-Timer
+10:41:42 PM  [main] 	Control Panel Ready
+10:41:47 PM  [mysql] 	Installing service...
+10:41:47 PM  [mysql] 	Successful!
+10:41:48 PM  [mysql] 	Attempting to start MySQL service...
+10:41:49 PM  [mysql] 	Status change detected: running
+10:42:18 PM  [Apache] 	Attempting to start Apache app...
+10:42:19 PM  [Apache] 	Status change detected: running
+2:35:40 PM  [main] 	Deinitializing Modules
+2:35:40 PM  [main] 	Deinitializing Control Panel
+
+2:49:36 PM  [main] 	Initializing Control Panel
+2:49:36 PM  [main] 	Windows Version:  Enterprise  64-bit
+2:49:36 PM  [main] 	XAMPP Version: 8.1.1
+2:49:36 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+2:49:36 PM  [main] 	Running with Administrator rights - good!
+2:49:36 PM  [main] 	XAMPP Installation Directory: "d:\sql info\xampp\"
+2:49:36 PM  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+2:49:36 PM  [main] 	Checking for prerequisites
+2:49:36 PM  [main] 	All prerequisites found
+2:49:36 PM  [main] 	Initializing Modules
+2:49:36 PM  [mysql] 	MySQL Service detected with wrong path
+2:49:36 PM  [mysql] 	Change XAMPP MySQL and Control Panel settings or
+2:49:36 PM  [mysql] 	Uninstall/disable the other service manually first
+2:49:36 PM  [mysql] 	Found Path: D:\github\six-shooter-rp\xampp\mysql\bin\mysqld.exe --defaults-file=d:\github\six-shooter-rp\xampp\mysql\bin\my.ini mysql
+2:49:36 PM  [mysql] 	Expected Path: d:\sql info\xampp\mysql\bin\mysqld.exe --defaults-file=d:\sql info\xampp\mysql\bin\my.ini mysql
+2:49:36 PM  [main] 	The FileZilla module is disabled
+2:49:36 PM  [main] 	The Mercury module is disabled
+2:49:36 PM  [main] 	The Tomcat module is disabled
+2:49:36 PM  [main] 	Starting Check-Timer
+2:49:36 PM  [main] 	Control Panel Ready
+2:49:38 PM  [mysql] 	Attempting to start MySQL service...
+2:49:47 PM  [mysql] 	Attempting to start MySQL service...
+2:49:59 PM  [main] 	Executing "d:\sql info\xampp\mysql"
+2:51:22 PM  [mysql] 	Attempting to start MySQL service...
+2:52:27 PM  [main] 	Deinitializing Modules
+2:52:27 PM  [main] 	Deinitializing Control Panel
+
