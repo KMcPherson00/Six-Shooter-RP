@@ -5,6 +5,8 @@ endpoint_add_udp "0.0.0.0:30120"
 set mysql_connection_string "server=127.0.0.1;database=redm;userid=root;"
 
 # These resources will start by default.
+
+ensure connectqueue
 ensure mapmanager
 ensure chat
 ensure spawnmanager
@@ -17,6 +19,25 @@ ensure mysql-async
 
 ensure mysql-insert
 
+ensure qbr-core
+ensure safecracker-main
+ensure qbr-clothing-main
+ensure qbr-multicharacter-main
+ensure qbr-shops-main
+ensure qbr-banking-main
+ensure qbr-interiors-main
+ensure qbr-lockpick-main
+ensure progressbar
+ensure qbr-weapons-main
+ensure qbr-weathersync-main
+ensure qbr-smallresources-main
+ensure qbr-doorlock-main
+ensure qbr-crafting-main
+ensure qbr-hud-main
+ensure qbr-policejob-main
+ensure qbr-inventory
+ensure qbr-spawn
+start txAdminRecipe-main
 
 
 # This allows players to use scripthook-based plugins such as the legacy Lambda Menu.
@@ -81,5 +102,5 @@ sv_maxclients 48
 set steam_webApiKey ""
 
 # License key for your server (https://keymaster.fivem.net)
-sv_licenseKey "cfxk_1nEvIX2HzM50DwFyu4PRy_s0Mpx"
+sv_licenseKey "cfxk_1crmcAM7IvVCVe4SvsLDE_4PqtmS"
 
