@@ -102,5 +102,5 @@ sv_maxclients 48
 set steam_webApiKey ""
 
 # License key for your server (https://keymaster.fivem.net)
-sv_licenseKey "cfxk_1crmcAM7IvVCVe4SvsLDE_4PqtmS"
+sv_licenseKey "cfxk_1nEvIX2HzM50DwFyu4PRy_s0Mpx"
 
